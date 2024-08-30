@@ -33,7 +33,9 @@ Série] e Senha: qualihouse
 
 3. ## Observação importante
     - Na instalação da **CAR** os IPs reservados vão de **10.70.3.52** até **10.70.3.86**
-    - Clique em -> [PLANILHA][planilha-link] para acessar o documento contendo os ambientes em que serão instalados os dispositivos e os IPs predefinidos para cada um.
+
+    - Clique em -> [PLANILHA](https://github.com/Engertech/Docs/raw/main/CAR/2-wifi/dispositivos-instalados.xlsx) para acessar o documento contendo os ambientes em que serão instalados os dispositivos e os IPs predefinidos para cada um.
+
 
 ## Exemplo
 . No ambiente **Centro de convivência** temos os IPs com final 53, 54 e 55. Isso quer dizer que os IPs dos dispositivos cadastrados nele são **10.70.3.53**, **10.70.3.54** e **10.70.3.55** sendo o primeiro dispositivo o primeiro da esquerda para a direita em relação a porta de entrada do ambiente.
@@ -42,4 +44,4 @@ Série] e Senha: qualihouse
 [wifi-2]: /assets/CAR/wifi/config-02.png
 [wifi-3]: /assets/CAR/wifi/config-03.png
 
-[planilha-link]: https://github.com/Engertech/Docs/raw/main/CAR/2-wifi/dispositivos-instalados.xlsx
+
