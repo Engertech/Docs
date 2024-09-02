@@ -1,4 +1,4 @@
-# Configuração de rede
+# 📚 Configuração de rede
 # Este tópico te guiará aos passos necessários para conectar o dispositivo Qiot a uma rede wifi
 
 SSID: [Tipo do Módulo] - [Num

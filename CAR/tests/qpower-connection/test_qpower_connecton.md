@@ -1,4 +1,4 @@
-# Teste de conexão com o Qpower
+# 📚 Teste de conexão com o Qpower
 ## Contextualização
 - **Este teste consistirá de 5 passos importantes**
     - **Homologar** o dispositivo que está sendo testado, na planilha
