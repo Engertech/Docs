@@ -41,3 +41,4 @@ Nome do Wifi: [Tipo do Módulo] - [NumSérie] e Senha: qualihouse
 [wifi-1]: /assets/CAR/wifi/config-01.png
 [wifi-2]: /assets/CAR/wifi/config-02.png
 [wifi-3]: /assets/CAR/wifi/config-03.png
+
