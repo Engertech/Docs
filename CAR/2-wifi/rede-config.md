@@ -1,16 +1,15 @@
-# Configuração de rede
+# 📚 Configuração de rede
 # Este tópico te guiará aos passos necessários para conectar o dispositivo Qiot a uma rede wifi
 
-SSID: [Tipo do Módulo] - [Num
-Série] e Senha: qualihouse
+Nome do Wifi: [Tipo do Módulo] - [NumSérie] e Senha: qualihouse
 
 # Conexão wifi
 ## Materiais necessários
 
 1. Utilizando um computador ou smartphone/tablet acesse a rede wifi do módulo QIoT, que possui a nomenclatura com o seguinte padrão
-    - SSID: [**Tipo do Módulo**] - [**NumSérie**]
+    - Nome do Wifi: [**Tipo do Módulo**] - [**NumSérie**]
     - Conecte utilizando a senha: **qualihouse**
-    - Exemplo: **QAR0199**
+    - Exemplo de nome do wifi: **QAR00199**
 2. Após conectar ao wifi-direct do QIoT..
     - Abra um navegador web de sua preferência como chrome, por exemplo e digite o endereço **192.168.0.1**
     - A seguinte tela será exibida
@@ -27,7 +26,7 @@ Série] e Senha: qualihouse
         ![][wifi-3]
 
     - **Parâmetros de rede**
-        1. **IP:** *ip do dispositivo* 
+        1. **IP:** *ip do dispositivo* **Veja no próximo tópico**
         2. **MÁSCARA:** 255.255.252.0
         3. **GATEWAY:** 10.70.0.254
 
