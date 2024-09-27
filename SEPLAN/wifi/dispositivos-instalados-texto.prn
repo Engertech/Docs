@@ -1,0 +1,27 @@
+BLOCO           DIPOSITIVO          Endereço MAC           IP – Starts at – 192.168.18.150
+Bloco A térreo  Qar 582              48:E7:29:70:31:11     192.168.18.150
+Bloco A térreo  Qar 510              48:E7:29:70:1A:12
+Bloco A térreo  Qar 587              80:64:6F:AD:EF:D4
+Bloco A térreo  Qar 550              80:64:6F:AD:EF:7D
+Bloco A térreo  Qar 541              80:64:6F:B0:20:DD
+Bloco A térreo  Qar 573              48:E7:29:70:00:C0
+Bloco A térreo  Qar 557              80:64:6F:AD:4A:C9
+Bloco A térreo  Qar 577              80:64:6F:A7:E2:E6
+Bloco A térreo  Qar 514              48:E7:29:70:25:C6
+Bloco A térreo  Qar 562              80:64:6F:B0:2E:49
+
+SPF BLOCO B     Qar 556              48:E7:29:70:15:C1
+SPF BLOCO B     Qar 522              48:E7:29:6F:FB:AC
+SPF BLOCO B     Qar 560              48:E7:29:70:3A:64
+SPF BLOCO B     Qar 536              48:E7:29:70:76:3D
+SPF BLOCO B     Qar 571              48:E7:29:70:3F:E5
+SPF BLOCO B     Qar 513              80:64:6F:AE:D1:C1
+SPF BLOCO B     Qar 517              80:64:6F:AD:4A:FE
+SPF BLOCO B     Qar 529              48:E7:29:70:19:F4
+SPF BLOCO B     Qar 526              48:E7:29:70:7F:DF
+SPF BLOCO B     Qar 555              80:64:6F:AD:EE:DE
+SPF BLOCO B     Qar 569              48:E7:29:6F:FF:98
+SPF BLOCO B     Qar 540              48:E7:29:70:28:77
+SPF BLOCO B     Qar 565              48:E7:29:70:08:AB
+SPF BLOCO B     Qar 559              48:E7:29:70:7A:39
+SPF BLOCO B     Qar 518              80:64:6F:AE:0B:E6
